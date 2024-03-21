@@ -9,10 +9,13 @@ body {
 }
 
 .flex-container {
+  height: 500px;
   display: flex;
   flex-direction: column;
+  /* always on the cross axis */
   align-items: center;
   background-color: lightgrey;
+  /* always on the main axis */
   justify-content: space-between;
 }
 
