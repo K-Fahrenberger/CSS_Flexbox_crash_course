@@ -25,4 +25,5 @@ body {
   background: blue;
   color: white;
   margin: 10px;
+  display: flex;
 }
