@@ -9,14 +9,14 @@ body {
 }
 
 .flex-container {
-  height: 500px;
+  /* height: 500px; */
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   /* always on the cross axis */
-  align-items: center;
+  /* align-items: center; */
   background-color: lightgrey;
   /* always on the main axis */
-  justify-content: space-between;
+  /* justify-content: space-between; */
 }
 
 .item {
